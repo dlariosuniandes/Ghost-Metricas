@@ -10,7 +10,7 @@
 &nbsp;
 
 <p align="center">
-    <a href="https://ghost.org/">Ghost.org </a> •
+    <a href="https://ghost.org/">Ghost.org</a> •
     <a href="https://forum.ghost.org">Forum</a> •
     <a href="https://ghost.org/docs/">Docs</a> •
     <a href="https://github.com/TryGhost/Ghost/blob/main/.github/CONTRIBUTING.md">Contributing</a> •
